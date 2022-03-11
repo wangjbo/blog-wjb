@@ -1,0 +1,11 @@
+.blogCard{
+    height: 2000px;
+    width: 15%;
+    position: absolute;
+    left: 71%;
+    background-color: white;
+}
+
+.blogCard{
+    border: 1px solid rgb(238, 190, 190);
+}

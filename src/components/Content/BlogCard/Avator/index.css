@@ -1,0 +1,71 @@
+.avator{
+    margin: 0 auto;
+    position: relative;
+    left: 0;
+    right: 0;
+    top:20px;
+    width: 80%;
+}
+
+
+.profile img{
+    width: 100px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+.status{
+    margin: 0 auto;
+}
+
+.status>div{
+    margin: 8px auto;
+    text-align: center;
+    font-size: 15px;
+    color: #119e82;
+}
+/* 类 */
+.division{
+    display: flex;
+    flex-direction: row;
+    padding-top: 20px;
+}
+
+.dash1{
+    width: 28%;
+    height: 1px;
+    background-color: blue;
+    margin-top: 10px;
+}
+.media{
+}
+
+.dash2{
+    width: 28%;
+    height: 1px;
+    background-color: blue;
+    margin-top: 10px;
+}
+.socialMedia{
+    display: flex;
+    flex-direction: row;
+}
+
+.socialMedia li{
+    margin-left: 50px;
+    font-size: 20px;
+    color: rgba(24, 144, 255,.6);
+}
+
+.welcomeToVisit div{
+    margin-top: 10px;
+    font-size: 15px;
+    color: rgba(24, 144, 255,.6);
+}
+
+.welcomeToVisit span{
+    display: block;
+    margin-top: 20px;
+    font-family:楷体;
+}

@@ -1,0 +1,19 @@
+.footeContent{
+    width: 800px;
+    height: 80px;
+    /* background-color: red; */
+    margin: 30px auto;
+    position: relative;
+}
+
+.footeContent>div{
+    color: rgb(143, 143, 143);
+    /* width: 500px; */
+    margin: 10px auto;
+    text-align: center;
+    font-style: italic;
+}
+
+.skill{
+    color: aqua;
+}

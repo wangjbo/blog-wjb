@@ -1,0 +1,1 @@
+export const MyListAction = (data) => ({type:'add',data})

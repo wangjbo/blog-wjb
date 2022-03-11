@@ -1,0 +1,8 @@
+.BlogData{
+    background-color: white;
+    height: 2700px;
+    width: 60%;
+    position: absolute;
+    left: 10%;
+    border: 1px solid rgb(238, 190, 190);
+}

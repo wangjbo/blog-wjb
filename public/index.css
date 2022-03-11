@@ -1,0 +1,26 @@
+html{
+    /* background-image: url('./bgImg/v2-73aef8cfeee9878b2de33c68216d13f3_1440w.jpg');
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    background-size: 100% 100%; */
+    padding: 0;
+    margin: 0;
+    background-color: #fff;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    /* 去除list的默认标签 */
+    list-style-type:none;
+    text-decoration: none;
+}
+/* 主色 */
+.theme-color {
+    background-color: rgba(35, 35, 44, 1);
+}
+
+/* 按钮色 */
+.theme-color-btn {
+    background-color: rgb(97, 147, 187);
+}

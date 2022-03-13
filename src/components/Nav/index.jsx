@@ -39,7 +39,7 @@ export default function Nav({ history }) {
               {item.id === '005'?  <LikeOutlined   className='icon'/> : ''}
               {item.id === '006'?  <WechatOutlined  className='icon'/> : ''}
               {item.name }
-
+            
             </NavLink>
           ))}
         </div>
